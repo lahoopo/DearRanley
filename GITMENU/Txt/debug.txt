@@ -1,0 +1,131 @@
+DEBUG START
+Menu Object Made
+Assembly Resolve Attached
+butt shmex
+Hook Tools Start.
+All patched?
+After Patch
+boxes
+DontDestroyOnLoad
+flags
+DontDestroyOnLoad
+beds
+DontDestroyOnLoad
+tracers
+DontDestroyOnLoad
+drops
+DontDestroyOnLoad
+ESP Done
+C:\RanleyMenu
+C:\RanleyMenu\Txt\settings.txt
+HOTKEY REGISTERED
+showMenu
+showMenu
+LeftControl F
+OuterVar start - TEST ^^ False
+obj booty - New Game Object (Attempt3.Menu)
+OuterVariable success - New Game Object (Attempt3.Menu) ## TEST
+just made - False
+current obj - New Game Object (Attempt3.Menu)
+OuterVar start - Boxes ^^ False
+obj booty - New Game Object (Attempt3.Menu)
+OuterVariable success - New Game Object (Attempt3.Menu) ## Boxes
+just made - False
+current obj - New Game Object (Attempt3.Menu)
+OuterVar start - Tracers ^^ False
+obj booty - New Game Object (Attempt3.Menu)
+OuterVariable success - New Game Object (Attempt3.Menu) ## Tracers
+just made - False
+current obj - New Game Object (Attempt3.Menu)
+OuterVar start - ClaimFlags ^^ False
+obj booty - New Game Object (Attempt3.Menu)
+OuterVariable success - New Game Object (Attempt3.Menu) ## ClaimFlags
+just made - False
+current obj - New Game Object (Attempt3.Menu)
+OuterVar start - Beds ^^ False
+obj booty - New Game Object (Attempt3.Menu)
+OuterVariable success - New Game Object (Attempt3.Menu) ## Beds
+just made - False
+current obj - New Game Object (Attempt3.Menu)
+OuterVar start - Drops ^^ False
+obj booty - New Game Object (Attempt3.Menu)
+OuterVariable success - New Game Object (Attempt3.Menu) ## Drops
+just made - False
+current obj - New Game Object (Attempt3.Menu)
+OuterVar start - Glows ^^ False
+obj booty - New Game Object (Attempt3.Menu)
+OuterVariable success - New Game Object (Attempt3.Menu) ## Glows
+just made - False
+current obj - New Game Object (Attempt3.Menu)
+OuterVar start - aimbot ^^ False
+obj booty - New Game Object (Attempt3.Menu)
+OuterVariable success - New Game Object (Attempt3.Menu) ## aimbot
+just made - False
+current obj - New Game Object (Attempt3.Menu)
+OuterVar start - aimbotPx ^^ False
+obj booty - New Game Object (Attempt3.Menu)
+OuterVariable success - New Game Object (Attempt3.Menu) ## aimbotPx
+just made - False
+OuterVar start - aimbotAcc ^^ False
+obj booty - New Game Object (Attempt3.Menu)
+OuterVariable success - New Game Object (Attempt3.Menu) ## aimbotAcc
+just made - False
+OuterVar start - ztoo ^^ False
+obj booty - New Game Object (Attempt3.Menu)
+OuterVariable success - New Game Object (Attempt3.Menu) ## ztoo
+just made - False
+current obj - New Game Object (Attempt3.Menu)
+OuterVar start - headsOnly ^^ False
+obj booty - New Game Object (Attempt3.Menu)
+OuterVariable success - New Game Object (Attempt3.Menu) ## headsOnly
+just made - False
+current obj - New Game Object (Attempt3.Menu)
+OuterVar start - Optimize ^^ False
+obj booty - New Game Object (Attempt3.Menu)
+OuterVariable success - New Game Object (Attempt3.Menu) ## Optimize
+just made - False
+current obj - New Game Object (Attempt3.Menu)
+Added to tabSizes- (360.00, 360.00)
+Added to tabPages- 0
+OuterVar start - StanceBypass ^^ False
+obj booty - New Game Object (Attempt3.Menu)
+OuterVariable success - New Game Object (Attempt3.Menu) ## StanceBypass
+just made - False
+current obj - New Game Object (Attempt3.Menu)
+OuterVar start - LeanBypass ^^ False
+obj booty - New Game Object (Attempt3.Menu)
+OuterVariable success - New Game Object (Attempt3.Menu) ## LeanBypass
+just made - False
+current obj - New Game Object (Attempt3.Menu)
+OuterVar start - BuildBypass ^^ False
+obj booty - New Game Object (Attempt3.Menu)
+OuterVariable success - New Game Object (Attempt3.Menu) ## BuildBypass
+just made - False
+current obj - New Game Object (Attempt3.Menu)
+OuterVar start - HoldMelee ^^ False
+obj booty - New Game Object (Attempt3.Menu)
+OuterVariable success - New Game Object (Attempt3.Menu) ## HoldMelee
+just made - False
+current obj - New Game Object (Attempt3.Menu)
+OuterVar start - TakeFood ^^ False
+obj booty - New Game Object (Attempt3.Menu)
+OuterVariable success - New Game Object (Attempt3.Menu) ## TakeFood
+just made - False
+current obj - New Game Object (Attempt3.Menu)
+OuterVar start - AntiSwim ^^ False
+obj booty - New Game Object (Attempt3.Menu)
+OuterVariable success - New Game Object (Attempt3.Menu) ## AntiSwim
+just made - False
+current obj - New Game Object (Attempt3.Menu)
+OuterVar start - FreeCam ^^ False
+obj booty - New Game Object (Attempt3.Menu)
+OuterVariable success - New Game Object (Attempt3.Menu) ## FreeCam
+just made - False
+current obj - New Game Object (Attempt3.Menu)
+OuterVar start - freeCamPlr ^^ False
+obj booty - New Game Object (Attempt3.Menu)
+OuterVariable success - New Game Object (Attempt3.Menu) ## freeCamPlr
+just made - False
+Added to tabSizes- (360.00, 360.00)
+Added to tabPages- 0
+tab switch 0
